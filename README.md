@@ -9,8 +9,10 @@
 % op -- overlap percent
 % minth - minimum threshold for spectrogram
 
+Note: requires functions 'spectrogram' and 'pspectrum' in matlab
+Also requires the function 'xmap' form [2]
 Cite:
 
-Sandeep Avvaru and Keshab K. Parhi. "Effective brain connectivity extraction by frequency-domain convergent cross-mapping (FDCCM) and its application in parkinson’s disease classification." Submitted to IEEE Transactions on Biomedical Engineering (TBME)), 2022.
+[1] Sandeep Avvaru and Keshab K. Parhi. "Effective brain connectivity extraction by frequency-domain convergent cross-mapping (FDCCM) and its application in parkinson’s disease classification." Submitted to IEEE Transactions on Biomedical Engineering (TBME)), 2022.
 
-Dan Mønster, Riccardo Fusaroli, Kristian Tyl´en, Andreas Roepstorff, and Jacob F. Sherson. Causal inference from noisy time-series data—testing the convergent cross-mapping algorithm in the presence of noise and external influence. Future Generation Computer Systems, 73:52–62, 2017.
+[2] Dan Mønster, Riccardo Fusaroli, Kristian Tyl´en, Andreas Roepstorff, and Jacob F. Sherson. Causal inference from noisy time-series data—testing the convergent cross-mapping algorithm in the presence of noise and external influence. Future Generation Computer Systems, 73:52–62, 2017.
