@@ -7,6 +7,7 @@
 % Ws -- window size
 % op -- overlap percent
 % minth - minimum threshold for spectrogram
+% Sandeep Avvaru (avvar002@umn.edu)
 
 function [rho_all]= compute_freq_CCM(data,L,fs,freqs,WS,OP,minTh)
 
