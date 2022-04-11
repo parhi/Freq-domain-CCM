@@ -19,8 +19,9 @@ Computes an adjacencey matrix where ij-th entry is the Freq domain CCM estimate 
  
  minth - minimum threshold for spectrogram
 
-Note: requires functions 'spectrogram' and 'pspectrum' in matlab
+Note: requires functions 'spectrogram' and 'pspectrum' in matlab.
 Also requires the function 'xmap' form [2]
+
 Cite:
 
 [1] Sandeep Avvaru and Keshab K. Parhi. "Effective brain connectivity extraction by frequency-domain convergent cross-mapping (FDCCM) and its application in parkinson’s disease classification." Submitted to IEEE Transactions on Biomedical Engineering (TBME)), 2022.
