@@ -24,6 +24,5 @@ Also requires the function 'xmap' form [2]
 
 Cite:
 
-[1] Sandeep Avvaru and Keshab K. Parhi. "Effective brain connectivity extraction by frequency-domain convergent cross-mapping (FDCCM) and its application in parkinson’s disease classification." Submitted to IEEE Transactions on Biomedical Engineering (TBME)), 2022.
+[1] S. Avvaru and K.K. Parhi, "Effective Brain Connectivity Extraction by Frequency-Domain Convergent Cross-Mapping (FDCCM) and its Application in Parkinson’s Disease Classification," IEEE Trans. on Biomedical Engineering, Feb. 2023, doi.org/10.1109/TBME.2023.3250355
 
-[2] Dan Mønster, Riccardo Fusaroli, Kristian Tyl´en, Andreas Roepstorff, and Jacob F. Sherson. Causal inference from noisy time-series data—testing the convergent cross-mapping algorithm in the presence of noise and external influence. Future Generation Computer Systems, 73:52–62, 2017.
